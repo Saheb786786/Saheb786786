@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saheb Jamal</h1>
 <h3 align="center">Data Science || Machine Learning || Python Learner</h3>
+<img align = "right" alt = "coding" width = "400px" src = "https://cdn.dribbble.com/users/1653464/screenshots/8004997/media/1ea79cdf365c893678921767b41b04fe.gif" >
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saheb786786&label=Profile%20views&color=0e75b6&style=flat" alt="saheb786786" /> </p>
