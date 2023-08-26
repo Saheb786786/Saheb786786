@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saheb Jamal</h1>
 <h3 align="center">Data Science || Machine Learning || Python Learner</h3>
-<img align = "right" alt = "coding" width = "400px" src = "https://cdn.dribbble.com/users/1653464/screenshots/8004997/media/1ea79cdf365c893678921767b41b04fe.gif" >
+<img align = "right" alt = "coding" width = "400px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5iCK0gjfk9Akkx-idrYlPWDgL67eB4yu8Sjq1cZzo7A5Bpvs2pUTYoRx_SoObYU7nZU&usqp=CAU" >
 
 
 
